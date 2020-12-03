@@ -1,0 +1,28 @@
+{
+  "name": "cafes",
+  "version": "1.0.0",
+  "description": "Venta Cafe",
+  "main": "http.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node http.js"
+  },
+  "keywords": [
+    "Venta",
+    "Cafe"
+  ],
+  "author": "Norberto",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Betov8/Codigo-Cafe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Betov8/Codigo-Cafe/issues"
+  },
+  "homepage": "https://github.com/Betov8/Codigo-Cafe#readme"
+}
